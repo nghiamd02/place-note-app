@@ -1,4 +1,4 @@
-import 'package:fav_place_app/places_list.dart';
+import 'package:fav_place_app/screens/places_list.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
